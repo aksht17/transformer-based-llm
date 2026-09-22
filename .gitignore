@@ -2,3 +2,4 @@
 .env
 torch_examples.ipynb
 torch-cpu_vs_gpu.ipynb
+.gitignore
